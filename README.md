@@ -18,3 +18,10 @@ For Linux systems, run the given command on shell:
 ```
   sudo apt-get install python3-pil.imagetk
 ```
+
+### How to use 
+```
+ $ python3 renameBox.py
+ ```
+ Then input the directory where images are stored. 
+ It will automatically create new directory (OldDirectory to OldDirectory_new) where renamed file will be stored.
